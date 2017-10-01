@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Game
 {   //add speed value later
+    
+    //test to see if working
     public static void main (String args[]){
     Scanner scan = new Scanner(System.in);    
   
