@@ -1,7 +1,14 @@
 public class Combat
 {
+    
     public Combat(){
-    pokemonName pN1 = new pokemonName();
+    
+        
+        
+            
+            
+
+       
        PokemonValues h1 = new PokemonValues("Heracross", "bug", 70, 95, 1, 70, 0);
        PokemonValues g1 =  new PokemonValues("Gengar", "ghost", 78, 88, 1 ,78, 0);
        PokemonValues o1 = new PokemonValues("Onyx", "rock", 70, 95, 1, 70, 0);
@@ -22,7 +29,7 @@ public class Combat
     
       
     
-    System.out.println("I choose you " + pN1.pokeName + ".");
+    System.out.println("I choose you " );
     
         
     }
