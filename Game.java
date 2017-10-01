@@ -3,6 +3,8 @@ public class Game
 {   //add speed value later
     
     //test to see if working
+    
+    //test again?
     public static void main (String args[]){
     Scanner scan = new Scanner(System.in);    
   
